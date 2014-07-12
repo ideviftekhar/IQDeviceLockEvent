@@ -2,7 +2,7 @@
 //  OnOffEvent.m
 //  Geo
 //
-//  Created by Canopus 10 on 5/14/13.
+//  Created by Iftekhar 10 on 5/14/13.
 //
 //
 

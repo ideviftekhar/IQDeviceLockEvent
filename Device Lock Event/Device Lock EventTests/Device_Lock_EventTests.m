@@ -2,7 +2,7 @@
 //  Device_Lock_EventTests.m
 //  Device Lock EventTests
 //
-//  Created by Canopus 4 on 29/03/14.
+//  Created by Iftekhar 4 on 29/03/14.
 //  Copyright (c) 2014 Iftekhar. All rights reserved.
 //
 
